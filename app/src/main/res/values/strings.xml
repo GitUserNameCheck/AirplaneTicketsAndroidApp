@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="departure_cities">
+        <item>Irkutsk</item>
+        <item>Novosibirsk</item>
+        <item>Krasnoyarsk</item>
+        <item>Yekaterinburg</item>
+        <item>Chelyabinsk</item>
+    </string-array>
+    <string-array name="arrival_cities">
+        <item>Saratov</item>
+        <item>Tyumen</item>
+        <item>Tver</item>
+        <item>Grozny</item>
+        <item>Oryol</item>
+    </string-array>
+</resources>
